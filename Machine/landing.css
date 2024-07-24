@@ -1,0 +1,41 @@
+/* Style the navigation bar */
+body{
+  background: #3171cb;
+    background-size: cover;
+}
+
+
+.navbar {
+    overflow: auto;
+    margin-left: 1000px;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Navbar links on mouse-over */
+  .navbar a:hover {
+    background-color: #000;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #04AA6D;
+  }
+
+
+  .paragraphtext{
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+
+ 
+ 
